@@ -199,11 +199,7 @@
             </div>
         </section>
     </div>
-    
 
-    <script src="build/js/bundle.min.js"></script>
-</body>
-</html>
 
 <?php
     incluirTemplate('footer');
